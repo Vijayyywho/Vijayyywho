@@ -48,7 +48,6 @@ setData((preVal)=>{
  <div class="col-12">
     <button class="btn btn-dark" type="submit">Submit form</button>
   </div>
-  <i class="bi bi-instagram"></i>
         </form>
 
         </div>

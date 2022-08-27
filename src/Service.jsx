@@ -23,7 +23,7 @@ const Service = () => {
             }
             )
          }
-         <i class="bi bi-instagram"></i>
+       
           </div>
         </div>
       </div>
